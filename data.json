@@ -1,12 +1,12 @@
 {
-  "2445239": { "offset_start": 300, "offset_end": 1300 },
-  "2445328": { "offset_start": -300, "offset_end": 700 },
-  "2445355": { "offset_start": -100, "offset_end": 1000 },
-  "2445350": { "offset_start": 600, "offset_end": 600 },
-  "2571960": { "offset_start": -500, "offset_end": -500 },
-  "2571967": { "offset_start": -7400, "offset_end": -6100 },
-  "2571969": { "offset_start": 0, "offset_end": -500 },
-  "2571511": { "offset_start": 250, "offset_end": 250 },
-  "2571499": { "offset_start": 250, "offset_end": 250 },
-  "2571970": { "offset_start": 0, "offset_end": 0 }
+  "2445239": { "firstPeriodSyncOffset": 300, "secondPeriodSyncOffset": 1300 },
+  "2445328": { "firstPeriodSyncOffset": -300, "secondPeriodSyncOffset": 700 },
+  "2445355": { "firstPeriodSyncOffset": -100, "secondPeriodSyncOffset": 1000 },
+  "2445350": { "firstPeriodSyncOffset": 600, "secondPeriodSyncOffset": 600 },
+  "2571960": { "firstPeriodSyncOffset": -500, "secondPeriodSyncOffset": -500 },
+  "2571967": { "firstPeriodSyncOffset": -7400, "secondPeriodSyncOffset": -6100 },
+  "2571969": { "firstPeriodSyncOffset": 0, "secondPeriodSyncOffset": -500 },
+  "2571511": { "firstPeriodSyncOffset": 250, "secondPeriodSyncOffset": 250 },
+  "2571499": { "firstPeriodSyncOffset": 250, "secondPeriodSyncOffset": 250 },
+  "2571970": { "firstPeriodSyncOffset": 0, "secondPeriodSyncOffset": 0 }
 }
