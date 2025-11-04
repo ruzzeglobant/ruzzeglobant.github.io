@@ -1,34 +1,22 @@
 {
   "team": "Atlético de Madrid",
-  "meshType": "RoundNeck",
-  "gkNumbers": [
-    13,
-    1,
-    31
-  ],
-  "fallbackColor": [
-    0.96863,
-    0.28235,
-    0.30588
-  ],
-  "fallbackGKColor": [
-    0.14118,
-    0.15686,
-    0.16863
-  ],
+  "meshType": "VNeck",
+  "gkNumbers": [13],
+  "fallbackColor": [0.0, 0.0, 0.0],
+  "fallbackGKColor": [0.0, 0.0, 0.0],
   "textures": {
-    "base": "T_ATM_CMN_2526_Clothes_C.png",
-    "rmo": "T_ATM_CMN_2526_Clothes_M.png",
-    "normal": "T_ATM_CMN_2526_Clothes_N.png"
+    "base": "base.png",
+    "rmo": "rmo.png",
+    "normal": "normal.png"
   },
   "gkTextures": {
-    "base": "T_ATM_CMN_2526_GKClothes_C.png",
-    "rmo": "T_ATM_CMN_2526_GKClothes_M.png",
-    "normal": "T_ATM_CMN_2526_GKClothes_N.png"
+    "base": "gk_base.png",
+    "rmo": "gk_rmo.png",
+    "normal": "gk_normal.png"
   },
   "gkArmsTextures": {
-    "base": "T_ATM_CMN_2526_Body_C.png",
-    "rmo": "T_ATM_CMN_2526_Body_M.png",
-    "normal": "T_ATM_CMN_2526_Body_N.png"
+    "base": "gk_arms_base.png",
+    "rmo": "gk_arms_rmo.png",
+    "normal": "gk_arms_normal.png"
   }
 }
