@@ -1,0 +1,33 @@
+{
+  "team": "Eibar",
+  "meshType": "RoundNeck",
+  "gkNumbers": [
+    13,
+    1
+  ],
+  "fallbackColor": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "fallbackGKColor": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "textures": {
+    "base": "",
+    "rmo": "",
+    "normal": ""
+  },
+  "gkTextures": {
+    "base": "",
+    "rmo": "",
+    "normal": ""
+  },
+  "gkArmsTextures": {
+    "base": "",
+    "rmo": "",
+    "normal": ""
+  }
+}
