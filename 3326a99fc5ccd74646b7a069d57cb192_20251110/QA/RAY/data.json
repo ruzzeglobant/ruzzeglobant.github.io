@@ -1,0 +1,34 @@
+{
+  "team": "Rayo Vallecano",
+  "meshType": "RoundNeck",
+  "gkNumbers": [
+    13,
+    1,
+    30
+  ],
+  "fallbackColor": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "fallbackGKColor": [
+    0.96471,
+    0.70196,
+    0.15294
+  ],
+  "textures": {
+    "base": "T_RV_CMN_2526_Clothes_C.png",
+    "rmo": "T_RV_CMN_2526_Clothes_M.png",
+    "normal": "T_RV_CMN_2526_Clothes_N.png"
+  },
+  "gkTextures": {
+    "base": "T_RV_CMN_2526_GKClothes_C.png",
+    "rmo": "T_RV_CMN_2526_GKClothes_M.png",
+    "normal": "T_RV_CMN_2526_GKClothes_N.png"
+  },
+  "gkArmsTextures": {
+    "base": "T_RV_CMN_2526_Body_C.png",
+    "rmo": "T_RV_CMN_2526_Body_M.png",
+    "normal": "T_RV_CMN_2526_Body_N.png"
+  }
+}

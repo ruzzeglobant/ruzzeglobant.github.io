@@ -1,0 +1,34 @@
+{
+  "team": "Real Betis",
+  "meshType": "RoundNeck",
+  "gkNumbers": [
+    1,
+    25,
+    13
+  ],
+  "fallbackColor": [
+    0.19608,
+    0.63922,
+    0.35686
+  ],
+  "fallbackGKColor": [
+    0.98039,
+    0.81176,
+    0.20392
+  ],
+  "textures": {
+    "base": "T_BETI_CMN_2526_Clothes_C.png",
+    "rmo": "T_BETI_CMN_2526_Clothes_M.png",
+    "normal": "T_BETI_CMN_2526_Clothes_N.png"
+  },
+  "gkTextures": {
+    "base": "T_BETI_CMN_2526_GKClothes_C.png",
+    "rmo": "T_BETI_CMN_2526_GKClothes_M.png",
+    "normal": "T_BETI_CMN_2526_GKClothes_N.png"
+  },
+  "gkArmsTextures": {
+    "base": "T_BETI_CMN_2526_GKBody_C.png",
+    "rmo": "T_BETI_CMN_2526_GKBody_M.png",
+    "normal": "T_BETI_CMN_2526_GKBody_N.png"
+  }
+}
