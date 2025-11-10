@@ -1,0 +1,33 @@
+{
+  "team": "Espanyol",
+  "meshType": "PoloNeck",
+  "gkNumbers": [
+    13,
+    1
+  ],
+  "fallbackColor": [
+    0.21961,
+    0.41961,
+    0.68627
+  ],
+  "fallbackGKColor": [
+    0.5098,
+    0.21569,
+    0.36863
+  ],
+  "textures": {
+    "base": "T_RCDE_CMN_2526_Clothes_C.png",
+    "rmo": "T_RCDE_CMN_2526_Clothes_M.png",
+    "normal": "T_RCDE_CMN_2526_Clothes_N.png"
+  },
+  "gkTextures": {
+    "base": "T_RCDE_CMN_2526_GKClothes_C.png",
+    "rmo": "T_RCDE_CMN_2526_GKClothes_M.png",
+    "normal": "T_RCDE_CMN_2526_GKClothes_N.png"
+  },
+  "gkArmsTextures": {
+    "base": "T_RCDE_CMN_2526_Body_C.png",
+    "rmo": "T_RCDE_CMN_2526_Body_M.png",
+    "normal": "T_RCDE_CMN_2526_Body_N.png"
+  }
+}

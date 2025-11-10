@@ -1,0 +1,34 @@
+{
+  "team": "Elche",
+  "meshType": "RoundNeck",
+  "gkNumbers": [
+    13,
+    45,
+    1
+  ],
+  "fallbackColor": [
+    0.21961,
+    0.48235,
+    0.35686
+  ],
+  "fallbackGKColor": [
+    0.43922,
+    0.79216,
+    0.98039
+  ],
+  "textures": {
+    "base": "T_ELCH_CMN_2526_Clothes_C.png",
+    "rmo": "T_ELCH_CMN_2526_Clothes_M.png",
+    "normal": "T_ELCH_CMN_2526_Clothes_N.png"
+  },
+  "gkTextures": {
+    "base": "T_ELCH_CMN_2526_GKClothes_C.png",
+    "rmo": "T_ELCH_CMN_2526_GKClothes_M.png",
+    "normal": "T_ELCH_CMN_2526_GKClothes_N.png"
+  },
+  "gkArmsTextures": {
+    "base": "T_ELCH_CMN_2526_Body_C.png",
+    "rmo": "T_ELCH_CMN_2526_Body_M.png",
+    "normal": "T_ELCH_CMN_2526_Body_N.png"
+  }
+}
