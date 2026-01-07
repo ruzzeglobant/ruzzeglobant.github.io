@@ -1,33 +1,33 @@
 {
   "team": "Leganés",
-  "meshType": "RoundNeck",
+  "meshType": "PoloNeck",
   "gkNumbers": [
     1,
     13
   ],
   "fallbackColor": [
-    1.0,
-    1.0,
-    1.0
+    0.69,
+    0.718,
+    0.773
   ],
   "fallbackGKColor": [
-    1.0,
-    0.97647,
-    0.21176
+    0.996,
+    0.431,
+    0.753
   ],
   "textures": {
-    "base": "",
-    "rmo": "",
-    "normal": ""
+    "base": "T_LEG_CMN_2526_Clothes_C.png",
+    "rmo": "T_LEG_CMN_2526_Clothes_M.png",
+    "normal": "T_LEG_CMN_2526_Clothes_N.png"
   },
   "gkTextures": {
-    "base": "",
-    "rmo": "",
-    "normal": ""
+    "base": "T_LEG_CMN_2526_GKClothes_C.png",
+    "rmo": "T_LEG_CMN_2526_GKClothes_M.png",
+    "normal": "T_LEG_CMN_2526_GKClothes_N.png"
   },
   "gkArmsTextures": {
-    "base": "",
-    "rmo": "",
-    "normal": ""
+    "base": "T_LEG_CMN_2526_Body_C.png",
+    "rmo": "T_LEG_CMN_2526_Body_M.png",
+    "normal": "T_LEG_CMN_2526_Body_N.png"
   }
 }
