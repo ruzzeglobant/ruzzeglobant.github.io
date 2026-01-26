@@ -1,0 +1,33 @@
+{
+  "team": "Real Zaragoza",
+  "meshType": "RoundNeck",
+  "gkNumbers": [
+    1,
+    13
+  ],
+  "fallbackColor": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "fallbackGKColor": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "textures": {
+    "base": "",
+    "rmo": "",
+    "normal": ""
+  },
+  "gkTextures": {
+    "base": "",
+    "rmo": "",
+    "normal": ""
+  },
+  "gkArmsTextures": {
+    "base": "",
+    "rmo": "",
+    "normal": ""
+  }
+}

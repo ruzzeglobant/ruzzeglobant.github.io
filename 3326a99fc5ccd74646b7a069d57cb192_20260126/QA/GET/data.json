@@ -1,0 +1,33 @@
+{
+  "team": "Getafe",
+  "meshType": "VNeck",
+  "gkNumbers": [
+    13,
+    1
+  ],
+  "fallbackColor": [
+    0.15294,
+    0.27843,
+    0.56863
+  ],
+  "fallbackGKColor": [
+    1.0,
+    0.93333,
+    0.26275
+  ],
+  "textures": {
+    "base": "T_GET_CMN_2526_Clothes_C.png",
+    "rmo": "T_GET_CMN_2526_Clothes_M.png",
+    "normal": "T_GET_CMN_2526_Clothes_N.png"
+  },
+  "gkTextures": {
+    "base": "T_GET_CMN_2526_GKClothes_C.png",
+    "rmo": "T_GET_CMN_2526_GKClothes_M.png",
+    "normal": "T_GET_CMN_2526_GKClothes_N.png"
+  },
+  "gkArmsTextures": {
+    "base": "T_GET_SO_2526_Body_C.png",
+    "rmo": "T_GET_SO_2526_Body_M.png",
+    "normal": "T_GET_SO_2526_Body_N.png"
+  }
+}

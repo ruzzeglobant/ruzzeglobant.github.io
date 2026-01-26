@@ -1,0 +1,33 @@
+{
+  "team": "Levante",
+  "meshType": "PoloNeck",
+  "gkNumbers": [
+    13,
+    1
+  ],
+  "fallbackColor": [
+    0.18039,
+    0.2549,
+    0.35686
+  ],
+  "fallbackGKColor": [
+    0.67059,
+    0.77255,
+    0.81176
+  ],
+  "textures": {
+    "base": "T_LEVA_CMN_2526_Clothes_C.png",
+    "rmo": "T_LEVA_CMN_2526_Clothes_M.png",
+    "normal": "T_LEVA_CMN_2526_Clothes_N.png"
+  },
+  "gkTextures": {
+    "base": "T_LEVA_CMN_2425_GKClothes_C.png",
+    "rmo": "T_LEVA_CMN_2425_GKClothes_M.png",
+    "normal": "T_LEVA_CMN_2425_GKClothes_N.png"
+  },
+  "gkArmsTextures": {
+    "base": "T_LEVA_CMN_2425_Body_C.png",
+    "rmo": "T_LEVA_CMN_2425_Body_M.png",
+    "normal": "T_LEVA_CMN_2425_Body_N.png"
+  }
+}

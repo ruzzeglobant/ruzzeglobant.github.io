@@ -1,0 +1,33 @@
+{
+  "team": "Athletic Club",
+  "meshType": "PoloNeck",
+  "gkNumbers": [
+    1,
+    27
+  ],
+  "fallbackColor": [
+    0.98039,
+    0.24706,
+    0.2902
+  ],
+  "fallbackGKColor": [
+    0.13725,
+    0.14902,
+    0.16078
+  ],
+  "textures": {
+    "base": "T_ATH_CMN_2526_Clothes_C.png",
+    "rmo": "T_ATH_CMN_2526_Clothes_M.png",
+    "normal": "T_ATH_CMN_2526_Clothes_N.png"
+  },
+  "gkTextures": {
+    "base": "T_ATH_CMN_2526_GKClothes_C.png",
+    "rmo": "T_ATH_CMN_2526_GKClothes_M.png",
+    "normal": "T_ATH_CMN_2526_GKClothes_N.png"
+  },
+  "gkArmsTextures": {
+    "base": "T_ATH_CMN_2526_Body_C.png",
+    "rmo": "T_ATH_CMN_2526_Body_M.png",
+    "normal": "T_ATH_CMN_2526_Body_N.png"
+  }
+}

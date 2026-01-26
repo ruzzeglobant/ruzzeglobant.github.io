@@ -1,0 +1,34 @@
+{
+  "team": "Las Palmas",
+  "meshType": "VNeck",
+  "gkNumbers": [
+    1,
+    13,
+    35
+  ],
+  "fallbackColor": [
+    1.0,
+    0.89412,
+    0.22745
+  ],
+  "fallbackGKColor": [
+    1.0,
+    0.4,
+    0.43922
+  ],
+  "textures": {
+    "base": "T_LPA_CMN_2526_Clothes_C.png",
+    "rmo": "T_LPA_CMN_2526_Clothes_M.png",
+    "normal": "T_LPA_CMN_2526_Clothes_N.png"
+  },
+  "gkTextures": {
+    "base": "T_LPA_CMN_2526_GKClothes_C.png",
+    "rmo": "T_LPA_CMN_2526_GKClothes_M.png",
+    "normal": "T_LPA_CMN_2526_GKClothes_N.png"
+  },
+  "gkArmsTextures": {
+    "base": "T_LPA_CMN_2526_Body_C.png",
+    "rmo": "T_LPA_CMN_2526_Body_M.png",
+    "normal": "T_LPA_CMN_2526_Body_N.png"
+  }
+}

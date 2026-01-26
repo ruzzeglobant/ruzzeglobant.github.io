@@ -1,0 +1,35 @@
+{
+  "team": "Barcelona",
+  "meshType": "RoundNeck",
+  "gkNumbers": [
+    13,
+    25,
+    31,
+    1
+  ],
+  "fallbackColor": [
+    0.15294,
+    0.21176,
+    0.4549
+  ],
+  "fallbackGKColor": [
+    0.18039,
+    0.58431,
+    0.40784
+  ],
+  "textures": {
+    "base": "T_BFC_CMN_2526_Clothes_C.png",
+    "rmo": "T_BFC_CMN_2526_Clothes_M.png",
+    "normal": "T_BFC_CMN_2526_Clothes_N.png"
+  },
+  "gkTextures": {
+    "base": "T_BFC_CMN_2526_GKClothes_C.png",
+    "rmo": "T_BFC_CMN_2526_GKClothes_M.png",
+    "normal": "T_BFC_CMN_2526_GKClothes_N.png"
+  },
+  "gkArmsTextures": {
+    "base": "T_BFC_CMN_2526_Body_C.png",
+    "rmo": "T_BFC_CMN_2526_Body_M.png",
+    "normal": "T_BFC_CMN_2526_Body_N.png"
+  }
+}
