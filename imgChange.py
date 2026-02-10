@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 
-cartella_target = r"C:\Users\ext-andrea.ruzzenent\Documents\ruzzeglobant.github.io\3326a99fc5ccd74646b7a069d57cb192_20260126"
+cartella_target = r"C:\Users\ext-andrea.ruzzenent\Documents\ruzzeglobant.github.io\3326a99fc5ccd74646b7a069d57cb192_20251110"
 
 estensioni_immagini = (".png", ".jpg", ".jpeg", ".bmp", ".tiff", ".webp")
 
