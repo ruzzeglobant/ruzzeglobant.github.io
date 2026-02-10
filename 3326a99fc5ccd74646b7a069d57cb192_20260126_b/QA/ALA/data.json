@@ -1,0 +1,34 @@
+{
+  "team": "Alavés",
+  "meshType": "VNeck",
+  "gkNumbers": [
+    1,
+    13,
+    33
+  ],
+  "fallbackColor": [
+    0.24706,
+    0.42745,
+    0.7098
+  ],
+  "fallbackGKColor": [
+    0.18431,
+    0.17647,
+    0.17255
+  ],
+  "textures": {
+    "base": "T_ALAV_CMN_2526_Clothes_C.png",
+    "rmo": "T_ALAV_CMN_2526_Clothes_M.png",
+    "normal": "T_ALAV_CMN_2526_Clothes_N.png"
+  },
+  "gkTextures": {
+    "base": "T_ALAV_CMN_2526_GKClothes_C.png",
+    "rmo": "T_ALAV_CMN_2526_GKClothes_M.png",
+    "normal": "T_ALAV_CMN_2526_GKClothes_N.png"
+  },
+  "gkArmsTextures": {
+    "base": "T_ALAV_SO_2526_Body_C.png",
+    "rmo": "T_ALAV_SO_2526_Body_M.png",
+    "normal": "T_ALAV_SO_2526_Body_N.png"
+  }
+}

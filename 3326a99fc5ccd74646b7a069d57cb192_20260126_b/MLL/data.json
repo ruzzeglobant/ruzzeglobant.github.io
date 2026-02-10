@@ -1,0 +1,34 @@
+{
+  "team": "Mallorca",
+  "meshType": "RoundNeck",
+  "gkNumbers": [
+    1,
+    13,
+    25
+  ],
+  "fallbackColor": [
+    0.96078,
+    0.14118,
+    0.25882
+  ],
+  "fallbackGKColor": [
+    0.23922,
+    0.25882,
+    0.26667
+  ],
+  "textures": {
+    "base": "T_MFC_CMN_2526_Clothes_C.png",
+    "rmo": "T_MFC_CMN_2526_Clothes_M.png",
+    "normal": "T_MFC_CMN_2526_Clothes_N.png"
+  },
+  "gkTextures": {
+    "base": "T_MFC_CMN_2526_GKClothes_C.png",
+    "rmo": "T_MFC_CMN_2526_GKClothes_M.png",
+    "normal": "T_MFC_CMN_2526_GKClothes_N.png"
+  },
+  "gkArmsTextures": {
+    "base": "T_MFC_CMN_2526_Body_C.png",
+    "rmo": "T_MFC_CMN_2526_Body_M.png",
+    "normal": "T_MFC_CMN_2526_Body_N.png"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "team": "Celta de Vigo",
+  "meshType": "RoundNeck",
+  "gkNumbers": [
+    13,
+    1
+  ],
+  "fallbackColor": [
+    0.49804,
+    0.72157,
+    0.88627
+  ],
+  "fallbackGKColor": [
+    0.59608,
+    0.57647,
+    0.56863
+  ],
+  "textures": {
+    "base": "T_CEV_CMN_2526_Clothes_C.png",
+    "rmo": "T_CEV_CMN_2526_Clothes_M.png",
+    "normal": "T_CEV_CMN_2526_Clothes_N.png"
+  },
+  "gkTextures": {
+    "base": "T_CEV_CMN_2526_GKClothes_C.png",
+    "rmo": "T_CEV_CMN_2526_GKClothes_M.png",
+    "normal": "T_CEV_CMN_2526_GKClothes_N.png"
+  },
+  "gkArmsTextures": {
+    "base": "T_CEV_CMN_2526_Body_C.png",
+    "rmo": "T_CEV_CMN_2526_Body_M.png",
+    "normal": "T_CEV_CMN_2526_Body_N.png"
+  }
+}
